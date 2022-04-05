@@ -18,8 +18,8 @@ class Footer extends Component {
       
               
               <h5 className="text-uppercase font-weight-bold">Contact us:</h5>
-              <p>EMAIL: lifescapehospital@gmail.com</p>
-              <p>Phone no: 7686968650</p>
+              <p>EMAIL: chandankumarsingh834@gmail.com</p>
+              <p>Phone no: 6353636549</p>
       
             </div>
             
@@ -31,7 +31,7 @@ class Footer extends Component {
       
              
               <h5 className="text-uppercase font-weight-bold">Address:</h5>
-              <p> 47/77 Banerjee Para Kolkata-700031</p>
+              <p> Shastri Nagar Ajmer, Rajasthan-305001</p>
       
             </div>
            
@@ -41,7 +41,7 @@ class Footer extends Component {
       
                           </div>
         
-                      <div className="footer-copyright text-center py-3 default-color-dark">© 2019 Copyright:
+                      <div className="footer-copyright text-center py-3 default-color-dark">© 2021 Copyright:
                           <span> lifescaspanehospitalltd.com</span>
                       </div>
         
